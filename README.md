@@ -44,3 +44,4 @@ Run `full_workflow.sql` to execute the complete setup.
 ## Author
 
 Minal Abid — Database Systems Project
+
