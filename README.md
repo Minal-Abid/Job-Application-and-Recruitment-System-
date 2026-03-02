@@ -28,6 +28,9 @@ Schema/ → Relational schema design
 SQL/ → Database creation and queries  
 Documentation/ → Project report
 
+## ERD Preview
+![ERD](ERD/ERD.png)
+
 ## How to Run
 1. Open MySQL Workbench
 2. Run `create_tables.sql`
@@ -39,4 +42,5 @@ OR
 Run `full_workflow.sql` to execute the complete setup.
 
 ## Author
+
 Minal Abid — Database Systems Project
